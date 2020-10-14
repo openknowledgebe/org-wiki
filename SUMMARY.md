@@ -9,6 +9,7 @@
   * [Open Summer of Code](activities/current-activities/open-summer-of-code.md)
   * [Open Belgium](activities/current-activities/open-belgium.md)
   * [HackYourFuture](activities/current-activities/hackyourfuture.md)
+  * [Bike Data Project](activities/current-activities/bike-data-project.md)
 * [Past activities](activities/past-activities.md)
 
 ## Legal
