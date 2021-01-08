@@ -6,6 +6,10 @@
 
 * [Starting an activity under OKBE](activities/starting-an-activity-under-okbe.md)
 * [Current activities](activities/current-activities/README.md)
+  * [EqualStreetNames](activities/current-activities/equalstreetnames/README.md)
+    * [1. List of street names](activities/current-activities/equalstreetnames/1.-list-of-street-names.md)
+    * [2. Community event](activities/current-activities/equalstreetnames/2.-community-event.md)
+    * [3. Wikidata Tags to OpenStreetMap](activities/current-activities/equalstreetnames/3.-wikidata-tags-to-openstreetmap.md)
   * [Open Summer of Code](activities/current-activities/open-summer-of-code.md)
   * [Open Belgium](activities/current-activities/open-belgium.md)
   * [HackYourFuture](activities/current-activities/hackyourfuture.md)
